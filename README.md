@@ -1,5 +1,7 @@
 # DeepSeek-OCR GGUF (for llama.cpp PR #17400)
 
+> **GitHub:** [coredevorg/DeepSeekOCR](https://github.com/coredevorg/DeepSeekOCR)
+
 This repository provides GGUF model files required for running the DeepSeek-OCR / MTMD support introduced in the following llama.cpp pull request:
 
 > [llama.cpp PR #17400](https://github.com/ggml-org/llama.cpp/pull/17400)
