@@ -1,0 +1,22 @@
+# Model files (too large for git)
+gguf_models/
+*.gguf
+
+# llama.cpp build (clone and build locally)
+llama.cpp/
+
+# Python / Conda
+__pycache__/
+*.pyc
+.conda/
+
+# Test images (may contain personal data)
+*.png
+*.jpg
+*.jpeg
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
